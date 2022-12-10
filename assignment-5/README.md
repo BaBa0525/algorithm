@@ -1,8 +1,7 @@
 # Assigment 5
 
-## New World, New Order
+## Minimum Spanning Tree
 
-Minimum Spanning Tree
 1. Prim's algorithm
 
     ```
